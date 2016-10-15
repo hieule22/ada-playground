@@ -11,16 +11,16 @@ the GNU Ada Compiler or GNAT, downloadable from this
 # Overview
 
 * [Math Utilities](https://github.com/hieule22/ada-playground/tree/master/mathutils),
-a collection of programs for converting between bases, approximating
+a collection of librariess for converting between bases, approximating
 mathematical constants, testing primality among others.
 
 * [Date Utilities](https://github.com/hieule22/ada-playground/tree/master/dateutils),
-a collections of programs for manipulating and querying dates.
+a collection of helper libraries for manipulating and querying dates.
 
 * [Sorting Illustration]
 (https://github.com/hieule22/ada-playground/tree/master/sorting),
-a collection of programs for demonstrating popular sorting algorithms.
+a collection of Ada implementation of popular sorting algorithms.
 
 * [Misc](https://github.com/hieule22/ada-playground/tree/master/misc),
-a collection of interactive command-line games and string manipulation
+a collection of simple interactive command-line games and string manipulation
 libraries.
