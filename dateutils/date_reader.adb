@@ -219,13 +219,3 @@ BEGIN
     Put (".");
 
 END Date_Reader;
-
-
-
-
-
-
-
-
-
-

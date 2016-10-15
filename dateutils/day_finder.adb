@@ -51,9 +51,3 @@ BEGIN
    Week_Day_Io.Put (Week_Day);
 
 END Day_Finder;
-
-
-
-
-
-

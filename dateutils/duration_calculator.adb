@@ -492,16 +492,3 @@ BEGIN
    Day_Converter (Result);
 
 END Duration_Calculator;
-
-
-
-
-
-
-
-
-
-
-
-
-

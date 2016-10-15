@@ -42,9 +42,3 @@ PROCEDURE Date_Validation IS
             Month_Io.Put (Month);
             Put (Date,3);
       END Date_Validation;
-
-
-
-
-
-
