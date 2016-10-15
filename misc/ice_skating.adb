@@ -314,11 +314,3 @@ BEGIN
                  Score, Average, Judge_Average, Participation);
 
 END Ice_Skating;
-
-
-
-
-
-
-
-

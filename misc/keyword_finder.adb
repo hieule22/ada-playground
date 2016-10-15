@@ -79,5 +79,3 @@ BEGIN
    END IF;
 
 END Keyword_Finder;
-
-

@@ -14,5 +14,3 @@ BEGIN
       Put (In_String(Letter_Position));
    END LOOP Reverse_Loop;
 END String_Reverse;
-
-

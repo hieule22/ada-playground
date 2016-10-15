@@ -41,7 +41,3 @@ BEGIN
    Put (Character_Count, Width => 0);
 
 END Character_Counter;
-
-
-
-

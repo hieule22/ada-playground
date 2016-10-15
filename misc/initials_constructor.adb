@@ -26,5 +26,3 @@ BEGIN
    END LOOP;
 
 END Initials_Constructor;
-
-
