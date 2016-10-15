@@ -48,8 +48,3 @@ BEGIN
    END LOOP;
 
 END Pascal_Triangle;
-
-
-
-
-

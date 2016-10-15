@@ -43,4 +43,3 @@ BEGIN   -- Trig table
       Degrees := Degrees + 1;
    END LOOP Table_Loop;
 END Trig_Table;
-

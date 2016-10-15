@@ -43,5 +43,3 @@ BEGIN
       New_Line;
    END LOOP Sequence;
 END Fibonacci;
-
-

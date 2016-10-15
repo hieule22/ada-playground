@@ -108,6 +108,3 @@ BEGIN
    Put ("Number of permutations:" & Integer'Image(Actual_Count));
 
 END Permutator;
-
-
-

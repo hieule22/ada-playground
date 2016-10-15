@@ -37,7 +37,3 @@ ELSE
 END IF;
 
 END Factor_finder;
-
-
-
-

@@ -58,11 +58,3 @@ BEGIN
    Put ("Minimum value: ");
    Put (Minimum, 0);
 END Min_Max;
-
-
-
-
-
-
-
-

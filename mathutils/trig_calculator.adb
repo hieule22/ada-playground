@@ -129,14 +129,3 @@ BEGIN
    END IF;
    Put (Item => Result, Fore => 1, Aft => 3, Exp => 0);
 END Trig_Calculator;
-
-
-
-
-
-
-
-
-
-
-

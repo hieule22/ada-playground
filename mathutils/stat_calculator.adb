@@ -117,9 +117,3 @@ BEGIN
    Put (Pop_Variance, Fore => 4, Aft => 4, Exp => 0);
 
 END Stat_Calculator;
-
-
-
-
-
-

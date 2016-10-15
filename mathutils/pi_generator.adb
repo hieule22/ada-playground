@@ -49,6 +49,3 @@ BEGIN
    Pi_Approx := 1.0 / (2.0*Sqrt(2.0) / 9801.0 * Inverse_Pi);
    Put (Item => Pi_Approx, Fore => 1, Aft => 10);
 END Pi_Generator;
-
-
-

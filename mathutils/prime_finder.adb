@@ -60,7 +60,3 @@ BEGIN
       Number := Number + 1;
    END LOOP Prime_Lister;
 END Prime_Finder;
-
-
-
-
