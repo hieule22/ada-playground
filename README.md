@@ -12,7 +12,7 @@ the GNU Ada Compiler or GNAT, downloadable from this
 
 * [Math Utilities](https://github.com/hieule22/ada-playground/tree/master/mathutils),
 a collection of programs for converting between bases, approximating
-mathematical constants such as \pi, testing primality among others.
+mathematical constants, testing primality among others.
 
 * [Date Utilities](https://github.com/hieule22/ada-playground/tree/master/dateutils),
 a collections of programs for manipulating and querying dates.
