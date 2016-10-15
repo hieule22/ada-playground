@@ -5,14 +5,14 @@ Named after [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) - often
 known as the first computer programmer, Ada is a multi-paradigm
 language famous (or rather infamous) for its extremely strong typing, explicit
 concurrency and non-determinism. Compilation of Ada programs can be done via
-the GNU Ada Compiler or GNAT, downloadable from the
+the GNU Ada Compiler or GNAT, downloadable from this
 [GNU webpage](https://www.gnu.org/software/gnat/).
 
 # Overview
 
 * [Math Utilities](https://github.com/hieule22/ada-playground/tree/master/mathutils),
 a collection of programs for converting between bases, approximating
-mathematical constants such as pi or e, testing primality among others.
+mathematical constants such as \pi, testing primality among others.
 
 * [Date Utilities](https://github.com/hieule22/ada-playground/tree/master/dateutils),
 a collections of programs for manipulating and querying dates.
