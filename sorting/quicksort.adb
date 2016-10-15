@@ -66,7 +66,3 @@ BEGIN
    Close (Output);
 
 END Quick_Sort_Illustration;
-
-
-
-

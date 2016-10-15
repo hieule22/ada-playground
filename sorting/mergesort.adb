@@ -78,7 +78,3 @@ BEGIN
    Close (Output);
 
 END Merge_Sort_Illustration;
-
-
-
-

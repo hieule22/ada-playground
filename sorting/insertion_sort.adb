@@ -50,7 +50,3 @@ BEGIN
    Close (Output);
 
 END Insert_Sort_Illustration;
-
-
-
-

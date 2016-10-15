@@ -63,5 +63,3 @@ BEGIN
       New_Line;
    END LOOP;
 END Selection_Sort_Illustrator;
-
-
